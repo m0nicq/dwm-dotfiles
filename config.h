@@ -40,7 +40,7 @@ static const Rule rules[] = {
 	{ "Wireshark",            NULL,       NULL,       0,            1,           -1 },
 	{ "kolourpaint",          NULL,       NULL,       0,            1,           -1 },
 	{ "VirtualBox Manager",   NULL,       NULL,       0,            1,           -1 },
-	{ "obsidian",             NULL,       NULL,       0,            1,           -1 },
+	{ "md.obsidian.Obsidian", NULL,       NULL,       0,            1,           -1 },
 };
 
 /* layout(s) */
